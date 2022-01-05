@@ -1,6 +1,10 @@
 # Cours-RI
 Ce GitHub propose des exemples d'analyse de texte sous python.
-Il comporte deux parties. Une première partie est consacrée à l'analyse de textes (indexation). L'analyse peut consister à extraire les mots simples, jusqu'à l'analyse un peu plus "poussée", vecteurs de mots pondérés, représentations continues (LSI, LDA, embedings,..). De manière générale le "text processing" passe par les étapes suivantes= - tokenizer avec ou sans suppression de mots vides - construction du vocabulaire (le dictionnaire): vocabulary—lexicon - vectorisation d'un texte. Nousprésentons ici 3 Libraires, mais nous mettons l'acct principalement surGenSim. 
+Il comporte deux parties. Une première partie est consacrée à l'analyse de textes (indexation). L'analyse peut consister à extraire les mots simples, jusqu'à l'analyse un peu plus "poussée", vecteurs de mots pondérés, représentations continues (LSI, LDA, embedings,..). De manière générale le "text processing" passe par les étapes suivantes= 
+- tokenizer avec ou sans suppression de mots vides 
+- construction du vocabulaire (le dictionnaire): vocabulary—lexicon 
+- vectorisation d'un texte. 
+Nous présentons ici 3 Libraires, mais nous mettons l'accent principalement sur GenSim. 
 -->
 ## Analyse de texte
 Exemples analyse de texte sous Python  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbougha/Cours-RI/blob/main/Cours_RI_part1.ipynb)]
