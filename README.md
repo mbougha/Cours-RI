@@ -4,6 +4,7 @@ Il comporte deux parties. Une première partie est consacrée à l'analyse de te
 - tokenizer avec ou sans suppression de mots vides 
 - construction du vocabulaire (le dictionnaire): vocabulary—lexicon 
 - vectorisation d'un texte. 
+
 Nous présentons ici 3 Libraires, mais nous mettons l'accent principalement sur GenSim. 
 -->
 ## Analyse de texte
