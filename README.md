@@ -10,7 +10,9 @@ Nous présentons ici 3 Libraires, mais nous mettons l'accent principalement sur 
 ## Analyse de texte
 Exemples analyse de texte sous Python  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbougha/Cours-RI/blob/main/Cours_RI_part1.ipynb)]
 
-Le second fichier,"CoursRI_DeepLearning_Text"  propose quelques exemples de réseaux de neurones assez simples. Ils sont illustrés à travers des exemples (collections de textes) (pris de la littérature: site de Keras ou Tensorflow). 
+https://drive.google.com/file/d/1b2aA2IGUgXKxDSXK_cU2Wz1wKaD9jQ9G/view?usp=sharing
 
 ## Réseaux de neurones
-Exemples de réseaux de neurones en  Python  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/mbougha/f9a67217e6df8fac3878840203c5c8de/cours_ri_nn_keras_tf.ipynb)]
+Le second fichier,"CoursRI_DeepLearning_Text"  propose quelques exemples de réseaux de neurones assez simples. Ils sont illustrés à travers des exemples (collections de textes) (pris de la littérature: site de Keras ou Tensorflow). 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbougha/Cours-RI/blob/main/cours_ri_nn_keras_tf.ipynb)]
+
